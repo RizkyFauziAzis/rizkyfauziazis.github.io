@@ -9,9 +9,9 @@
   --font-semi-bold: 600;
   --font-bold: 700;
   /*===== Colors =====*/
-  --first-color: #2b045e;
-  --first-color-dark: #2b045e;
-  --first-dark: #2b045e;
+  --first-color: #1000a0;
+  --first-color-dark: #1000a0;
+  --first-dark: #1000a0;
   --first-darken: #290f09;
   --text-color: #ffffff;
   --first-color-light: #eae7e6;
@@ -482,4 +482,3 @@ img {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-
